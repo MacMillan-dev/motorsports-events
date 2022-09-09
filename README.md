@@ -1,4 +1,4 @@
-# weather-app
+# motorsports-events
 
 ## Project setup
 ```
